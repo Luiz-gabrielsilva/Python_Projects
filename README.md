@@ -10,7 +10,7 @@ Uma calculadora básica que realiza operações simples de adição, subtração
 ### 2. [Aluguel de Carro](python_exercises/Car_Rent_Project.ipynb) 🚘
 Um programa simples em Python para aluguel de carros.
 
-### 3. Execícios de Estrutura de Dados 1 e 2📰
+### 3. [Execícios de Estrutura de Dados 1](python_exercises/estrutura_de_dados_1) e [2](python_exercises/estrutura_de_dados_2)📰
 Exercícios obtidos dentro da plataforma Asimov Academy, todos sobre Python e suas funções.
 
 ### 4. [Pedra, Papel e Tesoura](python_exercises/pedra_papel_tesoura.ipynb) 🪨📰✂
