@@ -36,7 +36,7 @@ Sinta-se à vontade para contribuir, abrir problemas ou sugerir melhorias. Seu f
 
 ## Contato
 
-- (https://www.linkedin.com/in/luiz-gabriel-da-silva-santana/)
+- LikedIn: [LinkedIn](https://www.linkedin.com/in/luiz-gabriel-da-silva-santana/)
 - Email: luizdatascience42@gmail.com
 
 ## Agradecimentos
