@@ -22,6 +22,9 @@ Um exercício da plataforma DIO necessário para aprovação em uma das etapas d
 ### 6. [IN](python_exercises/in.ipynb)/[OUT](python_exercises/out.ipynb) 📁🗃
 Um exercício que permite entender como a biblioteca OS funciona. Semelhante ao CMD, pode-se realizar as mais diversas operações em código Python.
 
+### 7. [Cifra de César](python_exercises/Caesar_Cypher.ipynb) 🧮
+Um exercício para recriar a Cifra de César, muito utilizada para encriptar mensagens no passado.
+
 ## Como Executar
 
 Cada projeto tem seu próprio diretório com um README separado. Certifique-se de verificar as instruções específicas de cada projeto para executá-lo corretamente.
