@@ -25,6 +25,9 @@ Um exercício que permite entender como a biblioteca OS funciona. Semelhante ao 
 ### 7. [Cifra de César](python_exercises/Caesar_Cypher.ipynb) 🧮
 Um exercício para recriar a Cifra de César, muito utilizada para encriptar mensagens no passado.
 
+### 8. [Deck de Cartas](python_exercises/Deck_Cards.ipynb) ♠️
+Esse exercício consiste em criar um jogo de cartas básico. Você definir diversos parâmetros nas funções, como quantidade de jogadores, quantidade de cartas, se a distribuição é por cima ou por baixo..
+
 ## Como Executar
 
 Cada projeto tem seu próprio diretório com um README separado. Certifique-se de verificar as instruções específicas de cada projeto para executá-lo corretamente.
