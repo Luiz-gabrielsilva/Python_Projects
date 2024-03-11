@@ -28,6 +28,9 @@ Um exercício para recriar a Cifra de César, muito utilizada para encriptar men
 ### 8. [Deck de Cartas](python_exercises/Deck_Cards.ipynb) ♠️
 Esse exercício consiste em criar um jogo de cartas básico. Você definir diversos parâmetros nas funções, como quantidade de jogadores, quantidade de cartas, se a distribuição é por cima ou por baixo..
 
+### 9. [Finding_File](python_exercises/Finding_File.ipynb) 🗃️
+Esse exercício concentra-se no uso da biblioteca OS, fazendo uma varredura na HOME do usuário para encontrar um determinado arquivo (selecionado pelo usuário). 
+
 ## Como Executar
 
 Cada projeto tem seu próprio diretório com um README separado. Certifique-se de verificar as instruções específicas de cada projeto para executá-lo corretamente.
@@ -42,7 +45,7 @@ Sinta-se à vontade para contribuir, abrir problemas ou sugerir melhorias. Seu f
 
 ## Contato
 
-- LikedIn: [LinkedIn](https://www.linkedin.com/in/luiz-gabriel-da-silva-santana/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/luiz-gabriel-da-silva-santana/)
 - Email: luizdatascience42@gmail.com
 
 ## Agradecimentos
