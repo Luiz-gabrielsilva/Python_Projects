@@ -31,6 +31,9 @@ Esse exercício consiste em criar um jogo de cartas básico. Você definir diver
 ### 9. [Finding_File](python_exercises/Finding_File.ipynb) 🗃️
 Esse exercício concentra-se no uso da biblioteca OS, fazendo uma varredura na HOME do usuário para encontrar um determinado arquivo (selecionado pelo usuário). 
 
+### 10. [Listing_Files](python_exercises/Listing_File.ipynb) 🗄️
+Esse exercício também concentra-se no uso da biblioteca OS, faço uma varredura em um path específico e listo todos os diretórios e arquivos presentes, além disso calculo seus tamanhos.
+
 ## Como Executar
 
 Cada projeto tem seu próprio diretório com um README separado. Certifique-se de verificar as instruções específicas de cada projeto para executá-lo corretamente.
